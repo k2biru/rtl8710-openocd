@@ -1,3 +1,9 @@
+# Fork update openOCD target arg
+* More Info about [target arg](https://visualgdb.com/support/chainposition/)
+* Commit OpenOCD [target: restructure dap support](https://github.com/sysprogs/openocd/commit/2231da8ec4e7d7ae9b652f3dd1a7104f5a110f3f)
+* Original code from : [https://bitbucket.org/rebane/rtl8710_openocd](https://bitbucket.org/rebane/rtl8710_openocd)
+---
+
 # RTL-8710 openocd support
 OpenOCD support for RTL8710 and integrated flash.
 ## pins:
